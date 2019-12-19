@@ -1,5 +1,5 @@
 //This is written by Mustafa Hesham Mohamed.
-//My code at FSSR is 20180378.
+//My code at FSSR is 201800378.
 //This is the queue.cpp file.
 #include "queue.h"
 #include <iostream>
@@ -45,7 +45,7 @@ queue<T>::dequeue()
 	T xd;
 	if (qIsEmpty())
 		{
-			cout<<"The queue is Empty!"<<endl;
+			cout<<"The queue is empty!"<<endl;
 		}
 	else if (!qIsEmpty())
 		{
